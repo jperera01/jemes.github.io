@@ -51,7 +51,7 @@ tags: [technical, tutorial]
 
 <p style="text-align: center; font-style: italic;">Bytes moving from registers to ALUs back to registers in nanoseconds</p>
 
-<p style="text-align: center; font-style: italic;">Cache hits like Derek Jeter</p>
+<p style="text-align: center; font-style: italic;">Cache hits like Babe Ruth</p>
 
 <p style="text-align: center; font-style: italic;">Dopamine floods the nervous system</p>
 
