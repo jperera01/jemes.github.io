@@ -5,4 +5,4 @@ description: Here be writings
 permalink: /blog
 ---
 
-Some writings on technology.
+Some writings on technology and my interests.
