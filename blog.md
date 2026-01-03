@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Blog
-description: Here be writings
+title: blog
+description: Writings on software, technology and other interests
 permalink: /blog
 ---
 
-Some writings on technology and my interests.
+Writings on software, technology and other interests.

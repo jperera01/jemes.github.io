@@ -5,12 +5,23 @@ title: Home
 
 ## About me
 
-Hi, I'm Prince Addo, a software engineer passionate about building applications and systems.
+Hey there traveler! I'm Prince Addo, a professional software engineer with 3 years of experience, I've built tools for the banking industry. Some of my interests include:
+
+- building software to solve real-world problems (who would've guessed)
+- building mechanical keyboards
+- marathon racing
+- _great_ movies, books, and tv-shows
+- developer environment configuration
+- entrepreneurship
 
 ## Socials
 
-**Email**: [prince.addo3.141@gmail.com](mailto:prince.addo3.141@gmail.com)
+**Gmail**: [prince.addo3.141](mailto:prince.addo3.141@gmail.com)
 
 **GitHub**: [prince-ao](https://github.com/prince-ao)
 
-**Discord**: princemfsn
+**Discord**: prince_eacc
+
+## Disclaimer
+
+None of the writings on this website reflect the views of any of my current or previous employers, clients, or affiliations. These are completely my personal takes.

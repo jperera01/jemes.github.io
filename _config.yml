@@ -1,7 +1,7 @@
 ###########
 # site.title
 
-title: Prince Addo
+title: rational expressionist
 url: "https://princeaddo.xyz"
 # host: 0.0.0.0
 
@@ -59,8 +59,6 @@ Blog: /blog
 
 # Add general links to site pages here
 links:
-  Projects: /projects
-  Resume: /assets/prince-addo-resume.pdf
 
 # Add links for more focus here
 special_links: ~

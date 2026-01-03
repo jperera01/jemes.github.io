@@ -1,7 +1,6 @@
 body {
   font-family: Verdana, sans-serif;
   margin: auto;
-  padding: 20px;
   max-width: 720px;
   text-align: left;
   background-color: #fff;
@@ -48,14 +47,11 @@ a:hover {
 .title {
   text-decoration: none;
   border: 0;
+  font-family: birth-riot !important;
 }
 
 .title h1 {
   font-size: 1.5em;
-}
-
-.title span {
-  font-weight: 400;
 }
 
 .bear::before {
@@ -167,7 +163,7 @@ blockquote {
 }
 
 footer {
-  padding: 25px 0;
+  padding: 1rem;
   text-align: left;
 }
 
@@ -297,11 +293,9 @@ ul.discover-posts li small a {
     color: #8cc2dd;
   }
 
-  code {
-  }
+  code {}
 
-  pre code {
-  }
+  pre code {}
 
   blockquote {
     color: #ccc;
@@ -337,6 +331,47 @@ small a {
 }
 
 .bottom-footer {
-  padding: 50px;
   text-align: center;
+}
+
+html[data-darkreader-scheme="dark"] .header {
+  color: #f9e076 !important;
+  font-weight: bold !important;
+}
+
+html[data-darkreader-scheme="dark"] .secret-message-1 {
+  color: #d0312d !important;
+  font-weight: bold !important;
+}
+
+html[data-darkreader-scheme="dark"] .secret-message-2 {
+  color: #028a0f !important;
+  font-weight: bold !important;
+}
+
+main {
+  min-height: calc(100vh - 20px - 3rem - 2rem)
+}
+
+h2 {
+  margin: 3rem 0;
+}
+
+a.post-link:visited {
+  color: #8cc2dd !important;
+}
+
+@font-face {
+  font-family: birth-riot;
+  src: url("/assets/fonts/BIRTR___.TTF");
+}
+
+.home p,
+.home li {}
+
+@media screen and (max-device-width: 480px) and (orientation: portrait) {
+  h2.title {
+    font-size: 40px !important;
+    text-align: center;
+  }
 }

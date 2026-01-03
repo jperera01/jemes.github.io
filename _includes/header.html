@@ -1,7 +1,7 @@
-<h2 class="title" style="font-size: 50px;">{{ site.title }}</h2>
+<h2 class="title header" style="font-size: 50px;"><span class="secret-message-1">r</span>ationa<span class="secret-message-2">l</span><sup><span class="secret-message-1">e</span>xpr<span class="secret-message-2">ess</span>ioni<span class="secret-message-1">st</span></sup></h2>
 <nav>
-    <a href="{{ site.url }}">Home</a> 
-    <a href="{{ site.url }}{{ site.Blog }}">Blog</a>
+    <a href="{{ site.url }}">home</a> 
+    <a href="{{ site.url }}{{ site.Blog }}">blog</a>
 
     {% for link in site.links %}
         <a href="{{ site.url }}{{ link[1] }}" {% if link[0] == "Resume"%}target='_blank'{% endif %}>{{ link[0] }}</a>
