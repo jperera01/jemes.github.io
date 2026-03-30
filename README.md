@@ -1,26 +1,24 @@
-# Software Engineering Fellow @ CUNY Tech Prep
-
 ## About Me
-Hi I'm Jemes! I am a senior at the College of Staten Island, and a CUNY Tech Prep fellow in the Software Engineering track.
+Hey there, I'm Jemes Perera. I'm a Computer Science graduate, focused on computer networking and how systems are designed, scaled, and secured.
 
-## Fun Fact
-I love to learn languages and play sudoku. It's a fun way to exercise my brain.
+I'm currently working toward my CCNA and aiming to transition into a dedicated network role.
+
+Some things I'm into:
+- network architecture and infrastructure design
+- switching and routing (learning in my CCNA studies)
+- solving practical tech problems in real environments
+- understanding how systems work under the hood (it's been a blast!)
 
 ## Education
 Computer Science, College of Staten Island
 
 ## Work Experience
-Technology Training Assistant @ College of Staten Island
-- Delivered real-time help to students, assisting with technical issues and providing guidance on various software and tools.
-- Responsible for opening and upkeep of computer labs, ensuring all equipment was functional and the environment was conducive to learning.
-- Conducted training sessions and workshops to help students understand the CUNY tech stack.
+Currently work a campus IT role managing lab environments and handling various technical issues ranging from account issues to hardware troubleshooting. It has been useful hands-on experience to understand real systems in a campus environment. 
 
 ### Projects
 
-**Present.ai**
 
-Developed a posture and presenting AI assistant designed to help users improve their presentation skills leveraging Machine Learning and a real-time feedback system.
-
+## Contact
 [LinkedIn](https://www.linkedin.com/in/jemesperera/)
 [Github](https://www.github.com/jperera01)
 [Resume](https://resumejp.tiiny.site/)
