@@ -5,23 +5,22 @@ title: Home
 
 ## About me
 
-Hey there traveler! I'm Prince Addo, a professional software engineer with 3 years of experience, I've built tools for the banking industry. Some of my interests include:
+Hey there, I'm Jemes Perera. I am focused on computer networking and how systems are designed, scaled, and secured.
 
-- building software to solve real-world problems (who would've guessed)
-- building mechanical keyboards
-- marathon racing
-- _great_ movies, books, and tv-shows
-- developer environment configuration
-- entrepreneurship
+I'm currently working toward my CCNA and aiming to transition into a dedicated network role.
 
-## Socials
+Some things I'm into:
 
-**Gmail**: [prince.addo3.141](mailto:prince.addo3.141@gmail.com)
+- network architecture and infrastructure design
+- switching and routing (learning in my CCNA studies)
+- solving practical tech problems in real environments
+- understanding how systems work under the hood (it's been a blast!)
 
-**GitHub**: [prince-ao](https://github.com/prince-ao)
+## Education
+Computer Science B.S, College of Staten Island
 
-**Discord**: prince_eacc
+## Contact Me
 
-## Disclaimer
+**Gmail**: [perera.jemes3](mailto:perera.jemes3@gmail.com)
 
-None of the writings on this website reflect the views of any of my current or previous employers, clients, or affiliations. These are completely my personal takes.
+**GitHub**: [Linkedin](https://www.linkedin.com/jemesperera)

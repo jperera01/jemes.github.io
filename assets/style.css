@@ -339,16 +339,6 @@ html[data-darkreader-scheme="dark"] .header {
   font-weight: bold !important;
 }
 
-html[data-darkreader-scheme="dark"] .secret-message-1 {
-  color: #d0312d !important;
-  font-weight: bold !important;
-}
-
-html[data-darkreader-scheme="dark"] .secret-message-2 {
-  color: #028a0f !important;
-  font-weight: bold !important;
-}
-
 main {
   min-height: calc(100vh - 20px - 3rem - 2rem)
 }
