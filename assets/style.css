@@ -47,7 +47,7 @@ a:hover {
 .title {
   text-decoration: none;
   border: 0;
-  font-family: birth-riot !important;
+  font-family: ibm-plex !important;
 }
 
 .title h1 {
@@ -352,8 +352,8 @@ a.post-link:visited {
 }
 
 @font-face {
-  font-family: birth-riot;
-  src: url("/assets/fonts/BIRTR___.TTF");
+  font-family: ibm-plex;
+  src: url("/assets/fonts/IBMPlexSans-Medium.ttf");
 }
 
 .home p,
