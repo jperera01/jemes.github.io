@@ -1,24 +1,16 @@
 ###########
 # site.title
-
 title: Jemes Perera
 url: "https://jemesperera.com"
 # host: 0.0.0.0
-
-
 #########################
 # more settings
-
 plugins:
   - jekyll-redirect-from
-
 whitelist:
   - jekyll-redirect-from
-
 markdown: kramdown
-
 highlighter: rouge
-
 compress_html:
   clippings: all
   comments: [""]
@@ -27,11 +19,6 @@ compress_html:
   blanklines: false
   ignore:
     envs: []
-
-# sass:
-#   sass_dir: css
-#   style:    compressed
-
 collections:
   my_tags:
     output: true
@@ -43,22 +30,13 @@ defaults:
       type: my_tags
     values:
       layout: tagged
-
-# baseurl: ""
 permalink: /blog/:slug
 timezone: America/New_York
 future: false
-
 exclude:
-- README.md
-- LICENSE.md
-
-exclude: [vendor]
-
+  - README.md
+  - LICENSE.md
+  - vendor
 Blog: /blog
-
-# Add general links to site pages here
 links:
-
-# Add links for more focus here
 special_links: ~

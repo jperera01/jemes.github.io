@@ -23,4 +23,4 @@ Computer Science B.S, College of Staten Island
 
 **Gmail**: [perera.jemes3](mailto:perera.jemes3@gmail.com)
 
-**GitHub**: [Linkedin](https://www.linkedin.com/jemesperera)
+**Linkedin**: [Linkedin](https://www.linkedin.com/in/jemesperera)
